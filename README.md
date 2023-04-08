@@ -2,7 +2,7 @@
 My first mission from the code warriors.
 
 This really took a lot outta me.2 days to be precise.
-It seems that reversing a string is childsplay as compared to reversing the individual words in a string.
+It seems that reversing a string is child play as compared to reversing the individual words in a string.
 Who knows, some genius might use it in the future for some crazy encryption.
 I started off by reversing the entire string and I saw that didn't give the desired output.
 Then, by applying what really defines a word, I got it to reverse when ever it got to a whitespace.
